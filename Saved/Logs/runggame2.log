@@ -3772,3 +3772,66 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.26-17.19.51:772][122]LogSavePackage: Moving '../../../../../../Users/drews/Documents/Unreal Projects/CatchTheBus/UE4_RunnerGame/UE4_RunnerGame/Saved/cornerleft3948064F4596E0A83EBB4F8DA2458F48.tmp' to '../../../../../../Users/drews/Documents/Unreal Projects/CatchTheBus/UE4_RunnerGame/UE4_RunnerGame/Content/ThirdPersonBP/Blueprints/tiles/cornerleft.uasset'
 [2019.02.26-17.19.52:620][157]BlueprintLog: New page: Compile cornerleft
 [2019.02.26-17.20.11:131][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.28.14:813][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.28.15:182][809]LogSavePackage: Moving '../../../../../../Users/drews/Documents/Unreal Projects/CatchTheBus/UE4_RunnerGame/UE4_RunnerGame/Saved/cornerleft724603EF4E10344DC42825AECCA8FEE6.tmp' to '../../../../../../Users/drews/Documents/Unreal Projects/CatchTheBus/UE4_RunnerGame/UE4_RunnerGame/Content/ThirdPersonBP/Blueprints/tiles/cornerleft.uasset'
+[2019.02.26-17.28.21:457][979]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/tiles/cornerright.cornerright
+[2019.02.26-17.29.19:354][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.29.28:023][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.29.31:487][751]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/tiles/tile.tile
+[2019.02.26-17.29.41:940][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.30.10:043][723]LogSavePackage: Moving '../../../../../../Users/drews/Documents/Unreal Projects/CatchTheBus/UE4_RunnerGame/UE4_RunnerGame/Saved/ThirdPersonExampleMap_Auto6FD218C244DEF7E8D50396093FFDCAF5D.tmp' to '../../../../../../Users/drews/Documents/Unreal Projects/CatchTheBus/UE4_RunnerGame/UE4_RunnerGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2019.02.26-17.30.10:050][723]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.592
+[2019.02.26-17.30.10:050][723]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.592
+[2019.02.26-17.30.10:053][723]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/tiles/cornerright] ([1] browsable assets)...
+[2019.02.26-17.30.10:081][723]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/tiles/cornerright.cornerright]
+[2019.02.26-17.30.10:081][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/tiles/cornerright]
+[2019.02.26-17.30.10:161][723]LogSavePackage: Moving '../../../../../../Users/drews/Documents/Unreal Projects/CatchTheBus/UE4_RunnerGame/UE4_RunnerGame/Saved/cornerright_Auto697C6610544F5A4E8CA812787A4B4C4C5.tmp' to '../../../../../../Users/drews/Documents/Unreal Projects/CatchTheBus/UE4_RunnerGame/UE4_RunnerGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/tiles/cornerright_Auto6.uasset'
+[2019.02.26-17.30.10:164][723]LogFileHelpers: Auto-saving content packages took 0.111
+[2019.02.26-17.37.08:340][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.37.48:023][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.38.04:021][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.38.26:371][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.38.29:737][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.38.35:472][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.39.24:820][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.39.33:784][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.40.05:784][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.41.07:746][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.41.09:419][381]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.pista_4.NODE_AddChildActorComponent-2_8' is not static  (in blueprint "pista"), cannot attach '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tile_C_11701.DefaultSceneRoot' which is static to it. Aborting.
+[2019.02.26-17.41.09:425][381]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.pista_4.NODE_AddChildActorComponent-2_7' is not static  (in blueprint "pista"), cannot attach '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.cornerleft_C_6982.DefaultSceneRoot' which is static to it. Aborting.
+[2019.02.26-17.41.09:436][381]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.pista_4.NODE_AddChildActorComponent-2_6' is not static  (in blueprint "pista"), cannot attach '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tile_C_11700.DefaultSceneRoot' which is static to it. Aborting.
+[2019.02.26-17.41.09:440][381]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.pista_4.NODE_AddChildActorComponent-2_5' is not static  (in blueprint "pista"), cannot attach '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tile_C_11699.DefaultSceneRoot' which is static to it. Aborting.
+[2019.02.26-17.41.09:447][381]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.pista_4.NODE_AddChildActorComponent-2_4' is not static  (in blueprint "pista"), cannot attach '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tile_C_11698.DefaultSceneRoot' which is static to it. Aborting.
+[2019.02.26-17.41.09:451][381]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.pista_4.NODE_AddChildActorComponent-2_9' is not static  (in blueprint "pista"), cannot attach '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tile_C_11702.DefaultSceneRoot' which is static to it. Aborting.
+[2019.02.26-17.41.09:457][381]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.pista_4.NODE_AddChildActorComponent-2_3' is not static  (in blueprint "pista"), cannot attach '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tile_C_11697.DefaultSceneRoot' which is static to it. Aborting.
+[2019.02.26-17.41.09:467][381]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.pista_4.NODE_AddChildActorComponent-2_2' is not static  (in blueprint "pista"), cannot attach '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tile_C_11696.DefaultSceneRoot' which is static to it. Aborting.
+[2019.02.26-17.41.09:473][381]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.pista_4.NODE_AddChildActorComponent-2_1' is not static  (in blueprint "pista"), cannot attach '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tile_C_11695.DefaultSceneRoot' which is static to it. Aborting.
+[2019.02.26-17.41.09:486][381]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.pista_4.NODE_AddChildActorComponent-2_0' is not static  (in blueprint "pista"), cannot attach '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tile_C_11694.DefaultSceneRoot' which is static to it. Aborting.
+[2019.02.26-17.41.09:493][381]PIE: Warning: AttachTo: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.pista_4.NODE_AddChildActorComponent-2' is not static  (in blueprint "pista"), cannot attach '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.tile_C_11693.DefaultSceneRoot' which is static to it. Aborting.
+[2019.02.26-17.41.09:504][381]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.DESTROYED_cornerright_C_CHILDACTOR_6978.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.02.26-17.41.11:342][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-17.41.18:157][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.41.29:299][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.42.03:891][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.42.11:523][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.42.16:637][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.42.23:643][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.43.05:119][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.43.11:312][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.43.36:194][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.43.36:590][155]LogSavePackage: Moving '../../../../../../Users/drews/Documents/Unreal Projects/CatchTheBus/UE4_RunnerGame/UE4_RunnerGame/Saved/cornerright33013FEB4F9805094CD8139C0C747FEF.tmp' to '../../../../../../Users/drews/Documents/Unreal Projects/CatchTheBus/UE4_RunnerGame/UE4_RunnerGame/Content/ThirdPersonBP/Blueprints/tiles/cornerright.uasset'
+[2019.02.26-17.43.37:028][173]BlueprintLog: New page: Compile cornerright
+[2019.02.26-17.43.41:833][264]LogEditorViewport: Clicking on Actor (context menu): pista_C (pista)
+[2019.02.26-17.43.41:888][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-17.43.45:533][423]LogEditorViewport: Clicking on Actor (LMB): pista_C (pista)
+[2019.02.26-17.43.49:588][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.44.20:210][736]LogEditorViewport: Clicking Background
+[2019.02.26-17.44.21:750][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.45.12:752][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-17.45.18:050][985]LogSavePackage: Moving '../../../../../../Users/drews/Documents/Unreal Projects/CatchTheBus/UE4_RunnerGame/UE4_RunnerGame/Saved/ThirdPersonExampleMap_Auto7574E1C3A4CB8FD1861E09581D44D02A6.tmp' to '../../../../../../Users/drews/Documents/Unreal Projects/CatchTheBus/UE4_RunnerGame/UE4_RunnerGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2019.02.26-17.45.18:059][985]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.516
+[2019.02.26-17.45.18:059][985]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.516
+[2019.02.26-17.45.31:649][115]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.26-17.45.34:175][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-17.45.34:290][168]LogSavePackage: Moving '../../../../../../Users/drews/Documents/Unreal Projects/CatchTheBus/UE4_RunnerGame/UE4_RunnerGame/Saved/cornerright4A356BAF4258DDFC1270CBB7460AFA05.tmp' to '../../../../../../Users/drews/Documents/Unreal Projects/CatchTheBus/UE4_RunnerGame/UE4_RunnerGame/Content/ThirdPersonBP/Blueprints/tiles/cornerright.uasset'
+[2019.02.26-17.45.35:146][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
